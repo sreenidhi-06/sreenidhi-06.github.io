@@ -1,0 +1,48 @@
+# 🌐 Sreenidhi Thupkari — Portfolio Website  
+
+A personal portfolio website built from scratch to showcase my journey in **web development, data analytics, and machine learning fundamentals**.  
+
+## ✨ Features  
+- Responsive modern UI with **Bootstrap**  
+- Interactive project cards with motion effects  
+- Clean design with **Font Awesome** icons  
+- Showcasing Python, Java, and ML projects  
+
+## 🛠️ Tech Stack  
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Frameworks & Libraries**: Bootstrap, Font Awesome  
+- **Hosting**: Netlify  
+
+## 👩‍💻 About Me  
+I’m **Sreenidhi Thupkari**, a final‑year B.Tech student in Information Technology from Hyderabad, India, with a strong interest in **web development, data analytics, and machine learning fundamentals**.  
+
+- 🌱 Exploring ML + Physics ML projects and interactive web experiences  
+- 💻 Skilled in Python, C, C++, Java, HTML, CSS, JavaScript  
+- 📊 Passionate about data visualization and analytics  
+- 🚀 Building projects that combine AI concepts with modern frontend development  
+- 🎯 Career goal: Contribute to innovative software and AI solutions bridging research and real‑world applications  
+
+## 🚀 Live Demo  
+[Portfolio Website](https://sreenidhi-thupkari2408.netlify.app)  
+
+## 📸 Screenshots  
+
+### Homepage  
+![Portfolio Homepage](assets/homepage.png)  
+
+### Projects Section  
+![Projects Section](assets/projects.png)  
+
+### Experience & Education  
+![Experience Section](assets/experience.png)  
+
+### Contact Page  
+![Contact Section](assets/contact.png)  
+
+## 📂 Projects  
+- **Data Visualization Dashboard** — Built with Python and JavaScript, showcasing interactive charts.  
+- **Machine Learning Fundamentals** — Beginner ML models implemented in Python.  
+- **Web Development Projects** — Responsive websites using HTML, CSS, and JavaScript.  
+
+## 📜 License  
+This project is licensed under the MIT License — feel free to use and adapt.  
