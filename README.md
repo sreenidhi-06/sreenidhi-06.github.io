@@ -29,20 +29,6 @@ I’m **Sreenidhi Thupkari**, a final‑year B.Tech student in Information Techn
 ## 🚀 Live Demo  
 [Portfolio Website](https://sreenidhi-thupkari2408.netlify.app)  
 
-## 📸 Screenshots  
-
-### Homepage  
-![Portfolio Homepage](assets/homepage.png)  
-
-### Projects Section  
-![Projects Section](assets/projects.png)  
-
-### Experience & Education  
-![Experience Section](assets/experience.png)  
-
-### Contact Page  
-![Contact Section](assets/contact.png)  
-
 ## 📂 Projects  
 - **Data Visualization Dashboard** — Built with Python and JavaScript, showcasing interactive charts.  
 - **Machine Learning Fundamentals** — Beginner ML models implemented in Python.  
