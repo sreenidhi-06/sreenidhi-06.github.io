@@ -1,4 +1,8 @@
-# 🌐 Sreenidhi Thupkari — Portfolio Website  
+# 🌐 Sreenidhi Thupkari — Portfolio Website 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)](https://app.netlify.com/sites/sreenidhi-thupkari2408/deploys)
+
 
 A personal portfolio website built from scratch to showcase my journey in **web development, data analytics, and machine learning fundamentals**.  
 
